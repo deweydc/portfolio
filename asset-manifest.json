@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.35e10ecf.chunk.css",
+    "main.js": "/portfolio/static/js/main.7e7c0005.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7e7c0005.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.ee98da3d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.ee98da3d.js.map",
+    "static/js/2.345be1cc.chunk.js": "/portfolio/static/js/2.345be1cc.chunk.js",
+    "static/js/2.345be1cc.chunk.js.map": "/portfolio/static/js/2.345be1cc.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.35e10ecf.chunk.css.map": "/portfolio/static/css/main.35e10ecf.chunk.css.map",
+    "static/js/2.345be1cc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.345be1cc.chunk.js.LICENSE.txt",
+    "static/media/HireMe.css": "/portfolio/static/media/1042536.5a9bfbd3.jpg",
+    "static/media/IMG_1740.jpeg": "/portfolio/static/media/IMG_1740.f7f5ca37.jpeg",
+    "static/media/Recipe-app.png": "/portfolio/static/media/Recipe-app.38c39481.png",
+    "static/media/drum-kit.png": "/portfolio/static/media/drum-kit.f0370103.png",
+    "static/media/flex-panels.png": "/portfolio/static/media/flex-panels.e091b89c.png",
+    "static/media/loop-studio.png": "/portfolio/static/media/loop-studio.7bf83df5.png",
+    "static/media/Hero.css": "/portfolio/static/media/moon-cool-pictures-for-desktop-background-best-wallpaper-.cb1b170c.jpg",
+    "static/media/pricing-slider.png": "/portfolio/static/media/pricing-slider.1143c8b4.png",
+    "static/media/state-preview-card.png": "/portfolio/static/media/state-preview-card.7aa92750.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee98da3d.js",
+    "static/js/2.345be1cc.chunk.js",
+    "static/css/main.35e10ecf.chunk.css",
+    "static/js/main.7e7c0005.chunk.js"
+  ]
+}
