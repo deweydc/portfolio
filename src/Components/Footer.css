@@ -1,0 +1,22 @@
+.footer__section{
+    height: 7em;
+    background-color: #1f7ab8;
+}
+.footer__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    max-width: 300px;
+    height: 100%;
+}
+.footer__social{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px ;
+}
+.footer__social a {
+    color: black;
+}

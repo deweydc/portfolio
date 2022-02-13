@@ -1,0 +1,22 @@
+.skills__section{
+    min-height: 25em;
+    padding: 5em 0;
+    
+    margin: auto;
+    background-color: #1f7ab8;
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+}
+.skills__icons{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100%;
+    margin: auto;
+    max-width: 1440px;
+}
+.faIcon{
+    margin: .5em .5em;
+}
